@@ -35,6 +35,12 @@ pip install -e ".[live]"    # + stdio / http / sse transports
 pip install -e ".[dev]"     # everything + pytest
 ```
 
+> **Note on naming.** The `-e .` commands above install from a local clone
+> (run `git clone` first). On PyPI the distribution is published as
+> **`mcp-xray-audit`** (the bare `mcp-xray` name belongs to an unrelated Jira
+> Xray project). The import package (`mcp_xray`) and the CLI command
+> (`mcp-xray`) are unchanged.
+
 The static + consolidation half runs **keyless and offline** from a `tools/list`
 dump - no API key, no live server.
 
