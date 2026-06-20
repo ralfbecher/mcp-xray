@@ -32,9 +32,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ralfbecher/mcp-xray"
-Repository = "https://github.com/ralfbecher/mcp-xray"
-Issues = "https://github.com/ralfbecher/mcp-xray/issues"
+Homepage = "https://github.com/ralforion/mcp-xray"
+Repository = "https://github.com/ralforion/mcp-xray"
+Issues = "https://github.com/ralforion/mcp-xray/issues"
 
 [project.optional-dependencies]
 # Authoritative token counting + LLM behavioral probes (Anthropic).

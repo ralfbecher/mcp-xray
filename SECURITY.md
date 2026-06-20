@@ -5,7 +5,7 @@
 Please **do not** open a public issue for security problems.
 
 Report vulnerabilities privately via GitHub's
-[Report a vulnerability](https://github.com/ralfbecher/mcp-xray/security/advisories/new)
+[Report a vulnerability](https://github.com/ralforion/mcp-xray/security/advisories/new)
 (Security → Advisories). Include:
 
 - a description of the issue and its impact,

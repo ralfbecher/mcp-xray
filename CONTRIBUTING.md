@@ -13,7 +13,7 @@ to give. No separate signing step is required - opening a PR signals agreement.
 ## Development setup
 
 ```bash
-git clone https://github.com/ralfbecher/mcp-xray
+git clone https://github.com/ralforion/mcp-xray
 cd mcp-xray
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"     # everything + pytest
@@ -42,7 +42,7 @@ ruff check src tests
 
 ## Reporting bugs / requesting features
 
-Open an issue at https://github.com/ralfbecher/mcp-xray/issues. For anything
+Open an issue at https://github.com/ralforion/mcp-xray/issues. For anything
 security-sensitive, follow [SECURITY.md](SECURITY.md) instead of filing a public
 issue.
 
