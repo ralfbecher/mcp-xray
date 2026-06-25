@@ -9,7 +9,7 @@ description = "One field instrument for MCP server reviews: token tax, behaviora
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "BUSL-1.1" }
-authors = [{name = "Ralf Becher, RALFORION d.o.o.", email = "ralf.becher@web.de"}]
+authors = [{name = "Ralf Becher, RALFORION d.o.o.", email = "info@ralforion.com"}]
 keywords = ["mcp", "model-context-protocol", "audit", "tokens", "tool-design"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
